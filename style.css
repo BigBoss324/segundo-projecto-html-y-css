@@ -1,0 +1,35 @@
+img{
+    height: 300px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+}
+html{
+    background-color: black;
+}
+#primerDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#segundoDiv{
+    display: flex;
+    justify-content: center;
+}
+
+#tercerDiv{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}
+
+h1{
+    color: white;
+    font-family: 'Arimo', sans-serif;
+}
+
+
+
